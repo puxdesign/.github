@@ -8,7 +8,7 @@ We at [PUXdesign](https://www.puxdesign.cz) build **complex [websites](https://w
 
 </div>
 
-We have developed more than **500 websites** over a period of **20+ years** :tada:. Our team of more than :bowtie: **50 in-house colleagues** from :european_post_office: **Brno, Czech Republic**, together with another **500 colleagues** from [**BiQ group**](https://www.biq.group), is ready to help you with your web projects :monorail:
+We have developed more than :globe_with_meridians: **500 websites** over a period of :tada: **20+ years**. Our team of more than :bowtie: **50 in-house colleagues** from :european_post_office: **Brno, Czech Republic**, together with another **600 colleagues** from [**BiQ group**](https://www.biq.group), is ready to help you with your web projects :monorail:
 
 ## Our tech stack
 
